@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/PeoplesMomentum/projects.png?label=ready&title=Ready)](https://waffle.io/PeoplesMomentum/projects?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/drazenzadravec/projects.png?label=ready&title=Ready)](https://waffle.io/drazenzadravec/projects)
 [![Stories in Ready](https://badge.waffle.io/datproject/projects.png?label=ready&title=Ready)](https://waffle.io/datproject/projects)
 # projects
